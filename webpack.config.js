@@ -1,13 +1,13 @@
 module.exports = {
   entry: "./frontend/src/js/main.js",
   output: {
-    path: './build/public',
+    path: './build',
     filename: "bundle.js",
     publicPath: '/'
   },
   devServer: {
     inline: true,
-    contentBase: './build/public',
+    contentBase: './build',
   },
   module: {
     loaders: [
