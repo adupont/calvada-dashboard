@@ -1,8 +1,7 @@
 {
   "name": "calvada-dashboard",
-  "private": true,
-  "description": "Admin Dashboard for Management",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "babel": "^6.3.13",
