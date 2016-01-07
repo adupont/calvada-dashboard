@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "calvada-survey",
+  "private_key_id": "d008bfcf8a7430792c5b52097e2e52af54c00196",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUXQ4+MCnGaKUq\n3qRmu1h0/YNZlhtExYo2rWPBOIs2RCHuoHkmAQiuVtOpQ4NPKKWL6XLS8AtKVC8o\nXkyNCStMXpV0qzdHQxaJqyOB0UTQtq55z/oIiJ1DOhHIBaJiZ3r8O8UEF0GMr2K+\nuzaXMMEHplchQikchRfKCCWLE6nBOoCA9tmttwjK98kORosOvwT+hEFsdeofCrMc\n7/U62pu6UuONbdTMwxhtcMGKXfGpJmvG2t9a2SDg9ODO+cpNhUa2DEGki6HVhEpl\ngrFSmwiCp0U1VQfDUQIVMsNyw3mNYQULhRvoqp+MwlAGy7qTaqBX7ghDd+elJ+Nm\nRTCjrir5AgMBAAECggEAWoXosdMLOi8RT/Xmk3QNxdwEr72hx7VL3o6uxe8tKaAq\noAGzyZdp5428uZMi5EKlt5dp4wBpsyFoYJYg2RDWJVO0lyn8oXNype8QzB2Wgk5k\naJiYM2q/oYwl20hsyuPeq1YAoL1b1m4QrtVlupwZuwQoN3e5w9gFKtULqy8FLYsJ\nR1P1Of3EBi/2z16bwDWSRIC1xx2iitZP9BnU/eYAXt6agkQ2SPahMovdXaGQ234S\ncILo6rJQi85OuEjGaau6KDuanKYcmiOFD3j5EyiQxGLKYIi8dxKq1I0Tt+SXHxpv\nFOrxmDwxYTuipQqCAvomzGHKm+2Sokeyh9ppXi6asQKBgQDNOZrOA3LLl7NyMnPK\nrGLS0d/SyaUz8xgbbi6lVho6KZHsDN9dYBK95B3jhKR18FjRy/i0Og4Lz55mXRSg\nWA6YuiLAnMsf7MQAQo0jQG0Rdt1uj4WettaZ9uGtf5rf1OGgYtnFRv6gkH2o57Oq\nqh1KAuwZPZ3LR0qdO7Q+6EdGtQKBgQC5Ef8ne4MgaRBPQd0DZV33YJA2bUWkMrCg\ndrGHxcwnHyYmNmwVc9CgId9AroDG5Q4FCCi+BRv1TmU4C44DqkbTPpDSyiWC8DVy\nRxRbt8JFCvwO0umBVubIIQglJgixQbddiz0fkOtB6PjijdYRtQwZ+eo7tXJ1IESP\nYH9oVUuZtQKBgDaUuX1NIXzQTeNzU6R1kJrtQo/3HT7hymmRNkq2yabqY2raSZW1\n9YYXY3OdVXgggh7aFr0oK5Asmb4zx0aV5NvttUxw5v0IpWBEUvErM1bPvDipZyo9\nCnpMVN0l8PTS02cqoyx6o0Hk6+a+KOSc9ck3Wb+kyZDE1y1WMawBbuN5AoGAfCCp\n9h1NUYumOMKALirq32SQ1TBtKTgmZzm00M/Foeeueqq9y5WmNAED8CoajUxMHuve\nB7T9j4ZJNVHqqmKmpkCsefTDPBNIhaFO8kVJs20uqfKkUu+qUkh1YhUkd18QUVl2\nYZmdcNOFOs7O6Yl42GNayzljz1MZKOEcEypCTpECgYBDrqs/JirdvNeGeTEfSLDN\n4ziw8076SHKj085qhf/KEVjT35ScZKZOgI7ODNEvKu3i7193DtWLUlKiUvLU4VCz\nNw/XHwUOP1I6pV7zAHQSg8O0clHS2F1g/jqKvkJOzFiiktfJILtBmmUlXpoLY3Ce\nSiHurMRSbKjiebx948ioUg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "datastore@calvada-survey.iam.gserviceaccount.com",
+  "client_id": "116953053219296420642",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datastore%40calvada-survey.iam.gserviceaccount.com"
+}
